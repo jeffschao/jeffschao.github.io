@@ -12,7 +12,9 @@ I'm a third year student at the [University of Illinois at Urbana-Champaign](htt
 
 Computer Science Coursework
 ======
+
 At UIUC, I've taken courses in the following:
+
 + **CS 225 - Data structures - ** data abstractions, implementation in C++, computation on graphs and trees, elementary algorithm analysis.
 + **CS 241 - System Programming - ** POSIX processes, process control, inter-process communication, synchronization, signals, memory management, shell programming
 + **CS 242 - Programming Studio - ** intensive object-oriented programming lab, mobile development.
@@ -23,7 +25,6 @@ At UIUC, I've taken courses in the following:
 
 Statistics Coursework
 ======
-At UIUC, I've taken courses in the following:
 
 + **STAT 400 - Statistics and Probability I - ** calculus of probability, random variables, expectation, distribution functions, central limit theorem, point + estimation, confidence intervals, and hypothesis testing.
 + **STAT 410 - Statistics and Probability II - ** moment-generating functions, transformations of random variables, normal sampling theory, sufficiency, best estimators, maximum likelihood + estimators, confidence intervals, most powerful tests, unbiased tests, and chi-square tests.
