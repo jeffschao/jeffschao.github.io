@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jeff Chao"
   avatar           : "profile.png"
-  bio              : "Computer Science & Statistics Student at the University of Illinois at Urbana-Champaign"
+  bio              : "CS & Statistics Student at the University of Illinois"
   location         : "Champaign, IL"
   employer         : "Optum, UnitedHealthGroup"
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "angrammarpro"
+  twitter          :
   vine             :
   weibo            :
   xing             :
