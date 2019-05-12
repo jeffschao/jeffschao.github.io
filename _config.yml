@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeff Chao / Site Title"
+title                    : "Welcome to my site"
 title_separator          : "-"
-name                     : &name "Jeff MyName"
-description              : &description "Computer Science & Statistics Student at the University of Illinois at Urbana-Champaign"
+name                     : &name "Jeff Chao"
+description              : &description "CS & Statistics Student at the University of Illinois"
 url                      : https://jeffschao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeffschao/academicpages.github.io"
