@@ -2,3 +2,6 @@
 main:
   - title: "Resume"
     url: /files/resume.pdf
+
+  - title: "Portfolio"
+    url: /portfolio
