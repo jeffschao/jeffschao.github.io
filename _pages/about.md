@@ -11,7 +11,7 @@ redirect_from:
 I'm a third year student at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/), where I study both computer science and statistics.  I hope to use my knowledge in these subjects to pursue projects related to data science, machine learning, and artificial intelligence.  I am always seeking data-driven answers to challenging questions.
 
 Computer Science Coursework
-======
+------
 
 At UIUC, I've taken courses in the following:
 
@@ -24,7 +24,7 @@ At UIUC, I've taken courses in the following:
 + __CS 421 - Programming Languages & Compilers -__ Structure and implementation of programming languages. functional languages; type systems; object-oriented languages.  lexing, parsing, syntax-directed translation, semantic analysis, and code generation.
 
 Statistics Coursework
-======
+------
 
 + __STAT 400 - Statistics and Probability I -__ calculus of probability, random variables, expectation, distribution functions, central limit theorem, point + estimation, confidence intervals, and hypothesis testing.
 + __STAT 410 - Statistics and Probability II -__ moment-generating functions, transformations of random variables, normal sampling theory, sufficiency, best estimators, maximum likelihood + estimators, confidence intervals, most powerful tests, unbiased tests, and chi-square tests.
@@ -33,5 +33,5 @@ Statistics Coursework
 
 
 More About Me
-======
+------
 In my free time, I enjoy [reading](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2017), playing [Dota 2](http://blog.dota2.com), and keeping up-to-date with current consumer technology.
